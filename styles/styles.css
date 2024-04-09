@@ -206,6 +206,7 @@ button.save {
   width: 100%;
   padding: 0 10px;
   color: #000000;
+  color: #F00;
   cursor: pointer;
 }
 .content .page_2 .page_content .table .block .empty {
